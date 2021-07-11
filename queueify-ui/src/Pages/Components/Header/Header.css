@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: greenyellow;
+}
+
+.image {
+  display: flex;
+  align-content: flex-start;
+}
+.brand {
+  color: #8565c4;
+  font-weight: 500;
+}
